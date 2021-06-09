@@ -1,0 +1,9 @@
+This is a text file that exists just to check if the hash algorithm works.
+
+You can hash this program by running the following commands:
+
+cat HASHME.txt | ./mash - 
+
+You can find the correct output in the README.md file under the "Testing the program" (sub)section.
+
+If the hash that is found there is different to your hash please open an issue on github or email me (theshoutingparrot@protonmail.com).
